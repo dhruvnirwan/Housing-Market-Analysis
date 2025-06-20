@@ -1,17 +1,17 @@
 # 🏠 Housing Market Analysis with Google BigQuery & Power BI
 
 ### 🔹 1. Housing Market Overview  
-![Overview](./assets/Dashboards/Housing%20Market%20OVerview.png)
+![Housing Market Overview](./assets/Dashboards/Housing%20Market%20OVerview.png)
 
 ---
 
 ### 🔹 2. Sales Performance 
-![Top and Bottom 5 Analysis](./assets/Dashboards/House%20Type%20Analysis.png)
+![Sales Performance](./assets/Dashboards/Sales%20Performance.png)
 
 ---
 
 ### 🔹 3. House Type Analysis
-![Table Visuals](./assets/Dashboards/Sales%20Performance.png)
+![House Type Analysis](./assets/Dashboards/House%20Type%20Analysis.png)
 
 ## 📌 Project Overview
 This project analyzes Denmark's housing market using real estate sales data. Leveraging **Google BigQuery** for cloud-based SQL querying and **Power BI** for interactive dashboards, the project offers key insights into trends such as median sales price change, YOY sales growth, and regional housing patterns. This end-to-end data analytics pipeline includes data extraction, transformation, DAX-based modeling, and dashboard deployment.
